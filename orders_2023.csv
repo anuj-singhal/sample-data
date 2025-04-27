@@ -1,0 +1,5 @@
+order_id,customer_id,revenue,cost,order_date,ship_date,order_status
+1104,101-anuj,2330,1165,2022-01-01,2022-02-01,Shipped
+1105,102-mike,2620,1310,2022-03-02,2022-04-01,Shipped
+1106,103-john,2330,1165,2022-01-01,2022-02-01,Shipped
+1107,104-tom,2620,1310,2022-03-02,2022-04-01,Shipped
